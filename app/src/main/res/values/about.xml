@@ -2,13 +2,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_version" translatable="false">0.20.5.1</string>
     <string name="database_version_label" translatable="false">Database version: </string>
-    <string name="copyright" translatable="false">Copyright(c) 2022 - Charles Combes - All rights reserved.</string>
+    <string name="copyright" translatable="false">Copyright(c) 2023 - Shubham Biswas - All rights reserved.</string>
     <string name="bsd3" translatable="false">BSD 3</string>
-    <string name="author" translatable="false">Charles Combes</string>
+    <string name="author" translatable="false">Shubham Biswas</string>
     <string name="opensource_label" translatable="false">Open-source URL: </string>
-    <string name="opensource_url" translatable="false">https://github.com/brodeurlv/fastnfitness</string>
+    <string name="opensource_url" translatable="false">https://github.com/npm-shubham/fastnfitness</string>
     <string name="email_label" translatable="false">Contact the developer:</string>
-    <string name="email_url" translatable="false">fastnfitnessapp@gmail.com</string>
+    <string name="email_url" translatable="false">shubhambiswas487@gmail.com</string>
     <string name="revision_history_label" translatable="false">Revision History:</string>
     <string name="revision_history" translatable="false">\n
 0.20.5.1: February 22, 2022\n
