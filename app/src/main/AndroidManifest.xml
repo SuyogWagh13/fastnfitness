@@ -7,6 +7,9 @@
         android:maxSdkVersion="28" />
     <uses-permission android:name="android.permission.ACTION_HEADSET_PLUG" />
 
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION"/>
+    <uses-permission android:name="android.permission.SENSOR_ACCELEROMETER"/>
+
     <uses-feature
         android:name="android.hardware.camera.any"
         android:required="false" />
