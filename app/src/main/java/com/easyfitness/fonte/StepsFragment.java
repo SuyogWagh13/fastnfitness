@@ -79,7 +79,7 @@ public class StepsFragment extends Fragment implements SensorEventListener {
     private void loadData() {
         SharedPreferences sharedPreferences = getActivity().getSharedPreferences("myPrefs", Context.MODE_PRIVATE);
         previousTotalSteps = sharedPreferences.getInt("key1", 0);
-        goal.setText(sharedPreferences.getInt("key2", 8000) +"");
+        goal.setText(sharedPreferences.getInt("key2", 5000) +"");
         steps.setText(String.valueOf(previousTotalSteps));
     }
 

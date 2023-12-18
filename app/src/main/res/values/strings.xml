@@ -464,4 +464,6 @@
     <string name="import_unknow_file_extensions">Unknown file extension can\'t import</string>
     <string name="ProgramListLabel">Program List</string>
     <string name="steps">Steps</string>
+    <string name="edit_steps">Edit Steps</string>
+    <string name="goal_5000">Goal 5000</string>
 </resources>
